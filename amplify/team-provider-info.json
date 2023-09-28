@@ -10,6 +10,11 @@
       "StackName": "amplify-testcognito-dev-161813",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:193713173851:stack/amplify-testcognito-dev-161813/9257bf40-5dd7-11ee-9e08-0e6ffb6b5a71",
       "AmplifyAppId": "d3qvwiua66uvew"
+    },
+    "categories": {
+      "auth": {
+        "testcognitoee934f83": {}
+      }
     }
   }
 }
